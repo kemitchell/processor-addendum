@@ -1,0 +1,250 @@
+""Controller"" and ""Processor"" agree to add the following terms to their <Services Agreement>:
+
+    \Operational Details\
+
+        \Processing Summary\
+
+            # Standard Contractual Clauses, Annex 1
+            \Processor Activities\  []
+
+            # Standard Contractual Clauses, Annex 1
+            \Controller Activities\  []
+
+            # GDPR 28(3)
+            # Standard Contractual Clauses, Annex 1
+            \Categories of Data Subjects\  []
+
+            # Standard Contractual Clauses, Annex 1
+            \Categories of Data\  []
+
+            # Standard Contractual Clauses, Annex 1
+            \Special Categories of Data\  []
+
+            # Standard Contractual Clauses, Annex 1
+            \Processing Operations\  []
+
+            # GDPR 28(3)
+            \Subject-Matter of Processing\  []
+
+            # GDPR 28(3)
+            \Duration of Processing\  []
+
+            # GDPR 28(3)
+            \Nature and Purposes of Processing\  []
+
+            # GDPR 28(3)
+            \Obligations\ The <Services Agreement> and this addendum set out the obligations and rights of <Processor> and <Controller>.
+
+        \Security Measures\  []
+
+        \Assistance Responding to Data Subject Rights\ []
+
+    \Processing of Controller Personal Data\
+
+        # GDPR 28(3)(a)
+        \Compliant Processing\  <Processor> and each <Subprocessor> agree to:
+
+            \\  comply with all applicable <Data Protection Law> in the <Processing> of <Controller Personal Data>; and
+
+            \\  not <Process> <Controller Personal Data> other than on the relevant <Controller Company>'s written instructions, unless <Processing> is required by law, in which case the <Processor> or <Subprocessor> agrees to give the <Controller Company> notice of the legal requirement before <Processing>, if the law permits.
+
+        \Instruction to Process\  Each <Controller Company> instructs <Processor>, and authorizes <Processor> and each <Subprocessor> to instruct each of their <Subprocessors>, to <Process> <Controller Personal Data> and transfer <Controller Personal Data> to any country or territory as necessary for the provision of the <Services>, consistent with the <Services Agreement>.
+
+        \Legal Instruction Warranty\  Each <Controller Company> states that it is and will be legally authorized to give the instruction in {Instruction to Process}.
+
+        \Required Information\  {Processing Summary} sets out information required by <GDPR> 28(3). <Controller> can make amendments to {Processing Summary} by written notice to <Processor> as necessary to meet similar requirements of other <Data Protection Law>.  Nothing in {Processing Summary} confers any right or imposes any obligation on any party to this addendum.
+
+    # GDPR 28(3)(b)
+    \Personnel\  <Processor> agrees to:
+
+        \\  answer for breaches of this addendum by its <Personnel>, and <Personnel> of any <Subprocessor>, with access to <Controller Personal Data>;
+
+        \\  limit access to <Controller Personal Data> to <Personnel> who need access for purposes of the <Services Agreement>, or to comply with <Data Protection Law>; and
+
+        \\  ensure that all <Personnel> with access to <Controller Personal Data> have obligations to keep them confidential under contracts, professional obligations, or legal requirements.
+
+    # GDPR 28(3)(c)
+    \Security\  <Processor> agrees to implement the security measures listed in {Security Measures} for the protection of <Controller Personal Data>.
+
+    \Subprocessing\
+
+        # GDPR 28(3)(d) [authorization]
+        \Appointing Subprocessors\  Each <Controller Company> authorizes <Processor> to appoint <Subprocessors>, and each of the <Subprocessors> to appoint <Subprocessors> in turn, and so on, under {Subprocessing} and any restrictions in the <Services Agreement>.
+
+        \Current Subprocessors\  <Processor> may continue to use <Subprocessors> they were using before signing this addendum, as long as those <Subprocessors> meet the requirements of {Subprocessor Requirements} as soon as practical.
+
+        \Notice and Objection\  <Processor> agrees to give <Controller> prior written notice of the appointment of any new <Subprocessor>, describing the <Processing> the <Subprocessor> will do.  If <Controller> gives <Processor> notice of a reasonable objection within [subprocessor objection deadline]:
+
+            \\  <Processor> agrees to work with <Controller> to change how it provides the <Services>, to avoid using the new <Subprocessor>.
+
+            \\  If <Processor> cannot make such a change within [subprocessor workaround deadline], <Controller> may terminate the <Services Agreement> to the extent of the <Services> that require the new <Subprocessor>.
+
+        # GDPR 28(3)(d) [same obligations]
+        \Subprocessor Requirements\  <Processor> or any <Subprocessor> appointing any new <Subprocessor> must:
+
+            \\  perform adequate due diligence to ensure the new <Subprocessor> can provide the level of protection for <Controller Personal Data> required by the <Services Agreement> and this addendum, before that new <Subprocessor> <Processes> any <Controller Personal Data>.
+
+            # TODO: Consider requiring the same terms.
+            \\  ensure the relationship with the new <Subprocessor> is governed by a written contract:
+
+                \\  requiring at least the same level of protection for <Controller Personal Data> as this addendum; and
+
+                \\  meeting the requirements of <GDPR> 28(3);
+
+            \\  ensure the <Standard Contractual Clauses> are part of the contract with the new <Subprocessor> at all times while the new <Subprocessor> <Processes> <Controller Personal Data>, if the relationship involves any <Restricted Transfer>; and
+
+            \\  give the <Controller> review copies of the contract with the new <Subprocessor> on request, optionally redacted to remove confidential information not relevant to compliance with this addendum.
+
+        \Subprocessor Compliance\  <Processor> agrees to ensure that each <Subprocessor> will abide by the following sections, as if the <Subprocessor> were the <Processor>, to the extent they apply to <Processing> the <Subprocessor> does:
+
+            \\  {Compliant Processing};
+            \\  {Personnel};
+            # GDPR 28(3)(f) [Article 32]
+            \\  {Security};
+            # GDPR 28(3)(e)
+            \\  {Data Subject Rights};
+            # GDPR 28(3)(f) [Article 33 & 34]
+            \\  {Data Breach};
+            # GDPR 28(3)(f) [Article 35 & 36]
+            \\  {Impact Assessment and Prior Consultation}; and
+            # GDPR 28(3)(h)
+            \\  {Audit Obligations}.
+
+    \Data Subject Rights\
+
+        \\  <Processor> agrees to implement the appropriate technical and organizational measures listed in {Assistance Responding to Data Subject Rights} to help each <Controller Company> meet its obligation to respond to requests to exercise <Data Subject> rights under <Data Protection Law>.
+
+        \\  <Processor> agrees to:
+
+            \\  notify <Controller> promptly if <Processor> or any <Subprocessor> receives a request from a <Data Subject> under <Data Protection Law> about <Controller Personal Data>; and
+
+            \\  ensure that the recipient does not respond to that request unless required by <Data Protection Law>, except on written instructions from the <Controller> or the relevant <Controller Affiliate>.
+
+        \\  If <Data Protection Law> permits, <Processor> agrees to notify <Controller> before a <Processor> or any <Subprocessor> responds to a request because they are required to do so by <Data Protection Law>.
+
+    \Data Breach\
+
+        \Data Breach Notice\  <Processor> agrees to notify <Controller> as soon as practical when <Processor> or any <Subprocessor> becomes aware of a <Personal Data Breach> affecting <Controller Personal Data>.  As the information becomes available, <Processor> agrees to notify <Controller> of:
+
+            \\  the nature of the <Personal Data Breach>;
+
+            \\  the estimated categories and number of <Data Subjects> affected;
+
+            \\  the estimated categories and number of <Personal Data> records affected;
+
+            \\  contact information for <Personnel> who can answer further questions; and
+
+            \\  measures taken or planned to address the <Personal Data Breach>.
+
+        \Data Breach Cooperation\  <Processor> agrees to cooperate with each <Controller Company> to investigate, mitigate, and remediate any <Personal Data Breach>.
+
+    \Impact Assessment and Prior Consultation\  <Processor> agrees to assist each <Controller Company> with data protection impact assessments and prior consultations with any <Supervisory Authority> or other competent data privacy authority required by <GDPR> 35, <GDPR> 36, or similar provisions of other <Data Protection Law>, by answering questions about the <Processing> of <Controller Personal Data> by <Processor> and any <Subprocessor>.
+
+    # GDPR 28(3)(g)
+    \Deletion or Return\
+
+        \Obligation to Delete\  Subject to {Option to Return} and {Data Retention}, <Processor> agrees to delete all copies of <Controller Personal Data>, and to require every <Subprocessor> to delete all copies, within [deletion deadline] of the <End of Services>.
+
+        \Option to Return\  Subject to {Data Retention}, <Controller> may give <Processor> notice within [return request deadline] of the <End of Services> that <Processor> must instead return one complete copy of all <Controller Personal Data> to <Controller> by secure file transfer in standard file formats, delete other copies, and require every <Subprocessor> to delete other copies.  <Processor> agrees to return the copy requested within [return deadline] of the <End of Services>.
+
+        \Data Retention\  <Processor> and each <Subprocessor> may retain <Controller Personal Data> as required by <Data Protection Law>.  <Processor> and each <Subprocessor> retaining <Controller Personal Data> agree to keep them confidential, and to ensure they are only <Processed> as necessary for purposes required by <Data Protection Law>.
+
+        \Certificate of Deletion or Return\  <Processor> agrees to certify to <Controller> in writing that <Processor> and all <Subprocessors> have fully complied with {Deletion or Return} within [certification deadline] of the <End of Services>.
+
+    \Audit\
+
+        \Audit Obligations\  To the extent information and audit rights under the <Services Agreement> fall short of what <GDPR> 28(3)(h) and similar provisions of other <Data Protection Law> require, <Processor> agrees to:
+
+            \\  provide information on request from any <Controller Company> to demonstrate compliance with this addendum; and
+
+            \\  grant access for, and cooperate with, audits and inspections of compliance with this addendum by any <Controller Company> or <Controller Company> auditor.
+
+        \Audit Procedure\
+
+            \Notice of Audit\  Each <Controller Company> agrees to give <Processor> prior written notice of any audit or inspection under {Audit Obligations}.
+
+            \Minimize Disruption\  Each <Controller Company> agrees to ensure that <Controller Company> <Personnel> and auditor <Personnel> take reasonable steps to avoid and minimize damage, injury, and disruption to the premises, equipment, personnel, and business of <Processor> and every <Subprocessor>.
+
+            \Audit Limits\  Neither <Processor> nor any <Subprocessor> has to give access for an audit or inspection:
+
+                \\  to anyone without reasonable evidence of identity or authority;
+
+                \\  outside normal business hours, unless the <Controller Company> performing the audit gave prior notice that the audit or inspection needs to be conducted on an emergency basis; or
+
+                \\  more than [audit frequency], not counting audits or inspections for which the <Controller Company> mentions in its notice that:
+
+                    \\  the <Controller Company> considers the audit necessary because of concerns about compliance with this addendum;
+
+                    \\  <Data Protection Law> requires the <Controller Company> to perform the audit; or
+
+                    \\  a <Supervisory Authority> or similar regulatory authority responsible for enforcing <Data Protection Law> requests or requires the <Controller Company> to perform the audit.
+
+    \Restricted Transfers\
+
+        \Standard Contractual Clauses\  Subject to {Standard Contractual Clauses Apply Only if Necessary}, each <Controller Company> (as data exporter) and <Processor> (as data importer) agree to the <Standard Contractual Clauses> for any <Restricted Transfer> from <Controller Company> to <Processor>, substituting {Processing Summary} for appendix 1 and {Security Measures} for appendix 2 to the <Standard Contractual Clauses>.
+
+        \Standard Contractual Clauses Apply Only if Necessary\  {Standard Contractual Clauses} applies to a <Restricted Transfer> only if necessary, together with other practical compliance steps, short of getting <Data Subjects>' consent, to make the relevant <Restricted Transfer> legal under <Data Protection Law>.
+
+    \General Terms\
+
+        \Governing Law and Jurisdiction\  Other than under the "Mediation and Jurisdiction" and "Governing Law" clauses of the <Standard Contractual Clauses>, the dispute resolution, venue, and forum provisions of the <Services Agreement> apply to this addendum.
+
+        \Order of Precedence\
+
+            \Standard Contractual Clauses Trump this Addendum\  Where this addendum and the <Standard Contractual Clauses> conflict, the <Standard Contractual Clauses> take precedence.
+
+            \No Effect on Services Agreement Scope\  Nothing in this addendum reduces any <Processor> data protection obligations under the <Services Agreement> or permits <Processor> to <Process> or allow <Processing> of <Personal Data> in any way the <Services Agreement> prohibits.
+
+            \This Addendum Trumps Other Agreements\  Subject to {No Effect on Services Agreement Scope}, where this addendum conflicts with other agreements between the parties, such as the <Services Agreement>, signed before or after this addendum, this addendum takes precedence.
+
+        \Changes in Data Protection Law\
+
+            \Amendments for Compliance\  <Controller> may amend the <Standard Contractual Clauses> as required by a change in <Data Protection Law>, or a court or regulator decision under <Data Protection Law>, to allow <Restricted Transfer> to continue without breaching <Data Protection Law>.  <Controller> must give <Processor> notice [standard contractual clauses amendment notice] in advance.
+
+            \Amendments to Address New Risks\  If <Controller> gives notice under {Amendments for Compliance}, <Controller> agrees not to unreasonably withhold or delay agreement to any amendments to this addendum proposed by <Processor> to protect <Processor> or any <Subprocessor> from additional risks posed by the amendment to the <Standard Contractual Clauses>.
+
+            \Good Faith Negotiation\  If <Controller> gives notice under {Amendments to Address New Risks}, the parties agree to negotiate amendments to address the requirements identified in <Controller>'s notice in good faith, as soon as practical.
+
+            \Amendment without Affiliates\  Neither <Controller> nor <Processor> needs the consent or approval of any <Affiliate> to amend this addendum, including under {Amendments to Address New Risks}.
+
+        \Severance\  The parties intend that:
+
+            \\  any part of this addendum held invalid or unenforceable be changed to the minimum extent necessary to make it enforceable;
+
+            \\  any part of this addendum that cannot be changed to make it enforceable be disregarded; and
+
+            \\  the rest of this addendum remains in force, unless that frustrates the essential purpose of this addendum: to meet the requirements of <Data Protection Law> for <Processing> of <Controller Personal Data> as part of the <Services>.
+
+    \Definitions\
+
+        \\  ""Affiliate"" means an entity that owns or controls, is owned or controlled by, or is under common control or ownership with another entity, where control means having direct or indirect power to direct the management and policies, through ownership of voting securities, contract, or otherwise.
+
+        \\  ""Services Agreement"" means the agreement for services between <Controller> and <Processor>, signed before this addendum or along with it.
+
+        \\  ""End of Services"" means the date <Processor> stops providing <Services> under the <Services Agreement>.
+
+        \\  ""Controller Affiliate"" means an <Affiliate> or <Controller>.
+
+        \\  ""Controller Company"" means <Controller> or any <Controller Affiliate>.
+
+        \\  ""Controller Personal Data"" means any <Personal Data> related to the <Services Agreement> <Processed> by <Processor> or any <Subprocessor> on behalf of a <Controller Company>.
+
+        \\  ""Data Protection Law"" means data protection laws of the European Union, European Union <Member States>, Switzerland, and the United Kingdom, to the extent they apply to <Processing> of <Controller Personal Data>.
+
+        \\  ""GDPR"" means EU General Data Protection Regulation 2016/679.
+
+        \\  ""Personnel"" means employees, agents, and contractors.
+
+        \\  ""Restricted Transfer"" means:
+
+            \\  a transfer of <Controller Personal Data> from any <Controller Company> to <Processor> or any <Subprocessor>; or
+
+            \\  an onward transfer of <Controller Personal Data> that <Data Protection Law> or transfer agreements under <Data Protection Law> would prohibit without <Standard Contractual Clauses>, whether from <Processor> to a <Subprocessor>, from <Subprocessor> to <Subprocessor>, or between establishments of <Processor> or a <Subprocessor>.
+
+        \\  ""Services"" means services provided under the <Services Agreement>.
+
+        \\  ""Standard Contractual Clauses"" means the standard contractual clauses for the transfer of personal data to processors established in third countries from <Commission> decision 2010/87/EU, in the English language.
+
+        \\  ""Subprocessor"" (plural ""Subprocessors"") means anyone appointed by or on behalf of <Processor> to <Process> <Controller Personal Data> on behalf of any <Controller Company> in connection with the <Services Agreement>.
+
+        \\  ""Commission"", ""Data Subject"" (plural ""Data Subjects""), ""Member States"", ""Personal Data"", ""Personal Data Breach"", ""Processing"", and ""Supervisory Authority"" have the same meanings as in <GDPR>.

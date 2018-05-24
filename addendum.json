@@ -1,0 +1,22 @@
+[
+  {
+    "header": "The parties are signing this addendum on the dates by their signatures.",
+    "term": "Processor",
+    "entities": [
+      {}
+    ],
+    "information": [
+      "date"
+    ]
+  },
+  {
+    "samePage": true,
+    "term": "Controller",
+    "entities": [
+      {}
+    ],
+    "information": [
+      "date"
+    ]
+  }
+]
