@@ -335,4 +335,4 @@ The parties intend that:
 
 13.  **Subprocessor** (plural **Subprocessors**) means anyone appointed by or on behalf of _Processor_ to _Process_ _Controller Personal Data_ on behalf of any _Controller Company_ in connection with the _Services Agreement_.
 
-14.  **Commission**, **Data Subject** (plural **Data Subjects**), **Member States**, **Personal Data**, **Personal Data Breach**, **Processing**, and **Supervisory Authority** have the same meanings as in _GDPR_.
+14.  **Commission**, **Data Subject** (plural **Data Subjects**), **Member States**, **Personal Data**, **Personal Data Breach**, **Processing** (**Process**, **Processes**, **Processed**), and **Supervisory Authority** have the same meanings as in _GDPR_.
