@@ -127,9 +127,9 @@ _Processor_ or any _Subprocessor_ appointing any new _Subprocessor_ must:
 
 2.  ensure the relationship with the new _Subprocessor_ is governed by a written contract:
 
-  1.  requiring at least the same level of protection for _Controller Personal Data_ as this addendum; and
+    1.  requiring at least the same level of protection for _Controller Personal Data_ as this addendum; and
 
-  2.  meeting the requirements of _GDPR_ 28(3);
+    2.  meeting the requirements of _GDPR_ 28(3);
 
 3.  ensure the _Standard Contractual Clauses_ are part of the contract with the new _Subprocessor_ at all times while the new _Subprocessor_ _Processes_ _Controller Personal Data_, if the relationship involves any _Restricted Transfer_; and
 
@@ -161,9 +161,9 @@ _Processor_ agrees to ensure that each _Subprocessor_ will abide by the followin
 
 2.  _Processor_ agrees to:
 
-  1.  notify _Controller_ promptly if _Processor_ or any _Subprocessor_ receives a request from a _Data Subject_ under _Data Protection Law_ about _Controller Personal Data_; and
+    1.  notify _Controller_ promptly if _Processor_ or any _Subprocessor_ receives a request from a _Data Subject_ under _Data Protection Law_ about _Controller Personal Data_; and
 
-  2.  ensure that the recipient does not respond to that request unless required by _Data Protection Law_, except on written instructions from the _Controller_ or the relevant _Controller Affiliate_.
+    2.  ensure that the recipient does not respond to that request unless required by _Data Protection Law_, except on written instructions from the _Controller_ or the relevant _Controller Affiliate_.
 
 3.  If _Data Protection Law_ permits, _Processor_ agrees to notify _Controller_ before a _Processor_ or any _Subprocessor_ responds to a request because they are required to do so by _Data Protection Law_.
 
@@ -239,11 +239,11 @@ Neither _Processor_ nor any _Subprocessor_ has to give access for an audit or in
 
 3.  more than once per calendar year, not counting audits or inspections for which the _Controller Company_ mentions in its notice that:
 
-  1.  the _Controller Company_ considers the audit necessary because of concerns about compliance with this addendum;
+    1.  the _Controller Company_ considers the audit necessary because of concerns about compliance with this addendum;
 
-  2.  _Data Protection Law_ requires the _Controller Company_ to perform the audit; or
+    2.  _Data Protection Law_ requires the _Controller Company_ to perform the audit; or
 
-  3.  a _Supervisory Authority_ or similar regulatory authority responsible for enforcing _Data Protection Law_ requests or requires the _Controller Company_ to perform the audit.
+    3.  a _Supervisory Authority_ or similar regulatory authority responsible for enforcing _Data Protection Law_ requests or requires the _Controller Company_ to perform the audit.
 
 # Restricted Transfers
 
@@ -323,11 +323,11 @@ The parties intend that:
 
 9.  **Personnel** means employees, agents, and contractors.
 
-10.  **Restricted Transfer** means either:
+10. **Restricted Transfer** means either:
 
-  1.  a transfer of _Controller Personal Data_ from any _Controller Company_ to _Processor_ or any _Subprocessor_; or
+    1.  a transfer of _Controller Personal Data_ from any _Controller Company_ to _Processor_ or any _Subprocessor_; or
 
-  2.  an onward transfer of _Controller Personal Data_ that _Data Protection Law_ or transfer agreements under _Data Protection Law_ would prohibit without _Standard Contractual Clauses_, whether from _Processor_ to a _Subprocessor_, from _Subprocessor_ to _Subprocessor_, or between establishments of _Processor_ or a _Subprocessor_.
+    2.  an onward transfer of _Controller Personal Data_ that _Data Protection Law_ or transfer agreements under _Data Protection Law_ would prohibit without _Standard Contractual Clauses_, whether from _Processor_ to a _Subprocessor_, from _Subprocessor_ to _Subprocessor_, or between establishments of _Processor_ or a _Subprocessor_.
 
 11.  **Services** means services provided under the _Services Agreement_.
 
