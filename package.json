@@ -1,6 +1,6 @@
 {
   "devDependencies": {
-    "commonform-commonmark": "^5.2.0",
+    "commonform-commonmark": "^5.2.1",
     "commonform-critique": "^1.0.3",
     "commonform-docx": "^5.0.3",
     "commonform-lint": "^3.0.2",
